@@ -1,0 +1,13 @@
+[Grid]
+File = rectangle.dgf 
+
+[Time]
+Final = 10.0
+
+[Simulation]
+Name = transport
+SaveInterval = 0.5
+
+# uniformna profinjenja
+[Refinement]
+No = 2
