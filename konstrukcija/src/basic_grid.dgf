@@ -1,0 +1,13 @@
+DGF
+Vertex        % the verticies of the grid
+ 0    0       % vertex 0
+ 0    1       % vertex 1
+ 1    1       % vertex 2
+ 1    0       % vertex 3
+#
+CUBE            % a cube grid
+0 3 1 2         
+#
+BOUNDARYDOMAIN
+default 1     % all  boundary segments have id 1
+#

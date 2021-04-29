@@ -1,0 +1,12 @@
+DGF
+
+Interval
+0 0 0          % first corner 
+1 1 1          % second corner
+2 2 2         % 1 cells in x, 1 in y, and 1 in z direction
+#
+simplex 
+#
+BOUNDARYDOMAIN
+default 1
+#

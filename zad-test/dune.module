@@ -1,0 +1,10 @@
+################################
+# Dune module information file #
+################################
+
+#Name of the module
+Module: zad-test
+Version: 1.0
+Maintainer: y
+#depending on
+Depends: dune-common dune-istl dune-geometry dune-uggrid dune-grid dune-localfunctions  dune-functions dune-alugrid
